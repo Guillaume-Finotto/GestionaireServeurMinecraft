@@ -1,4 +1,4 @@
-# GestionaireServeurMinecraft
+# Gestionaire de Serveurs Minecraft
 Application avec interface graphique simple à utiliser pour gerer des serveur minecraft simplement.
 
 ## Fonctionalitée
@@ -13,7 +13,7 @@ Application avec interface graphique simple à utiliser pour gerer des serveur m
 ## Telechargement
 Lien de telechargement : https://www.dropbox.com/scl/fo/zdxgyo8mxy1dn6cxii4qe/h?rlkey=p82b710kum1ql6y7yzc8nl2cp&dl=0
 
-##Instalation
+## Instalation
 1) Trouver son token en creant un compte sur : https://dashboard.ngrok.com/signup
 2) Entrer le token sur le fichier : ressource/variable.txt
 3) Installer java (si cela n'est pas déja fait)
