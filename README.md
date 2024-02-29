@@ -2,12 +2,12 @@
 Application avec interface graphique simple à utiliser pour gerer des serveur minecraft simplement.
 
 ## Fonctionalitée
-  -Installation de map simple\n
-  -Prise en compte et upload du ressource pack (Dropbox)
-  -Fonctionement sur Bukit (mettez vos plugin dans le dossier plugin\n
-  -Gestion des differantes version de java en fonction des versions du jeu\n
-  -Telechargement du serveur automatique depuis internet\n
-  -Telechargement et installation des versions de Java (JDK) automatique\n
+  - Installation de map simple\n
+  - Prise en compte et upload du ressource pack (Dropbox)
+  - Fonctionement sur Bukit (mettez vos plugin dans le dossier plugin\n
+  - Gestion des differantes version de java en fonction des versions du jeu\n
+  - Telechargement du serveur automatique depuis internet\n
+  - Telechargement et installation des versions de Java (JDK) automatique\n
   
 
 ## Telechargement
@@ -19,7 +19,7 @@ Lien de telechargement : https://www.dropbox.com/scl/fo/zdxgyo8mxy1dn6cxii4qe/h?
 3) Installer java (si cela n'est pas déja fait)
 4) Descativer l'antivirus le temps du lancement du programme. C4est un projet open source, vous pouvez  verifier le code. Nous n'avons pas encore la certification Windows.
 
-##Ameliorations
--Certification windows
--Passer le code en anglais
--Ajouter plusieurs langues
+## Ameliorations
+- Certification windows
+- Passer le code en anglais
+- Ajouter plusieurs langues
